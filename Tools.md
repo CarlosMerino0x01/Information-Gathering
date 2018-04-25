@@ -1,5 +1,3 @@
-Literally just Information-Gathering....
-
 Give credit where credit is due! 
 
 http://www.powershellempire.com/ ----- Powershell Empire "Empire is a pure PowerShell post-exploitation agent built on cryptologically-secure communications and a flexible architecture. Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework."
@@ -55,3 +53,15 @@ https://github.com/UnaPibaGeek/ctfr ----- CTFR
 Do you miss AXFR technique? This tool allows to get the subdomains from a HTTPS website in a few seconds.
 How it works? CTFR does not use neither dictionary attack nor brute-force, it just abuses of Certificate Transparency logs.
 For more information about CT logs, check www.certificate-transparency.org and crt.sh 
+
+https://github.com/jivoi/openssh-backdoor-kit ----- OpenSSH Backdoor kit
+magic password to get shell with any user (encrypted or no)
+sniffs all in/out from ssh/sshd, log file encrypted or no.
+you can chose directory of log decryptor and directory of sniff-logs.
+all connections accepted by backdoor wont logged by lastlog/wtmp/udp.
+simple setup, just setup.sh!
+fake banner and fake version, if admin do ssh -v or sshd -v banner will be faked! :~
+
+https://github.com/Sab0tag3d/SIET ----- Smart Install Exploitation Tool
+Cisco Smart Install is a plug-and-play configuration and image-management feature that provides zero-touch deployment for new switches. You can ship a switch to a location, place it in the network and power it on with no configuration required on the device.
+
