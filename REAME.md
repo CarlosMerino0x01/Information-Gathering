@@ -27,3 +27,20 @@ https://github.com/sans-dfir/sift-cli ----- SIFT "The SIFT Workstation is a grou
 https://github.com/frohoff/ysoserial ----- YSoSerial? "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization."
 
 https://github.com/pwntester/ysoserial.net ----- YSoSerial.net "A proof-of-concept tool for generating payloads that exploit unsafe .NET object deserialization."
+
+https://github.com/dchrastil/scrapedin ----- 
+ScrapedIntool to scrape LinkedIn
+this tool assists in performing reconnaissance using the LinkedIn.com website/API. Provide a search string just as you would on the original website and let ScrapedIn do all the dirty work. Output is stored as an XLSX file, however it is intended to be used with Google Spreadsheets. After importing the XLSX into Google Spreadsheets there will be a "dataset" worksheet and a "report" worksheet.
+
+https://github.com/thec00n/smart-contract-honeypots ----- This repo contains a collection of smart contract honeypots.
+
+https://github.com/mirsamantajbakhsh/onionharvester ----- A  small TOR Onion Address harvester for checking if the address is available or not. The program uses the TOR local socks5 proxy for finding all the Onion Addresses which are alive and ports 80 and 443 are available. Details about the project and TOR onion harvesting is published in my personal blog at: Onion Harvester
+
+https://github.com/clong/detectionlab ----- This lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations. It can easily be modified to fit most needs or expanded to include additional hosts.
+Read more about Detection Lab on Medium here: https://medium.com/@clong/introducing-detection-lab-61db34bed6ae
+NOTE: This lab has not been hardened in any way and runs with default vagrant credentials. Please do not connect or bridge it to any networks you care about. This lab is deliberately designed to be insecure; the primary purpose of it is to provide visibility and introspection into each host.
+
+https://github.com/paralax/awesome-honeypots ----- A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects.
+
+https://github.com/bugcrowd/hunt ----- HUNT is a proxy extension to:
+Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy).Organize testing methodologies (currently avalible only inside of Burp Suite). 
