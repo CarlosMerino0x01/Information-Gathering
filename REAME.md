@@ -44,3 +44,5 @@ https://github.com/paralax/awesome-honeypots ----- A curated list of awesome hon
 
 https://github.com/bugcrowd/hunt ----- HUNT is a proxy extension to:
 Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy).Organize testing methodologies (currently avalible only inside of Burp Suite). 
+
+https://github.com/silascutler/malpipe ----- MalPipe is a modular malware (and indicator) collection and processing framework. It is designed to pull malware, domains, URLs and IP addresses from multiple feeds, enrich the collected data and export the results.
