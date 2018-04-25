@@ -1,6 +1,6 @@
-Literally just Information-Gathering
+Literally just Information-Gathering....
 
-Welcome to the Information-Gathering wiki!
+Give credit where credit is due! 
 
 http://www.powershellempire.com/ ----- Powershell Empire "Empire is a pure PowerShell post-exploitation agent built on cryptologically-secure communications and a flexible architecture. Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework."
 
@@ -46,3 +46,12 @@ https://github.com/bugcrowd/hunt ----- HUNT is a proxy extension to:
 Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy).Organize testing methodologies (currently avalible only inside of Burp Suite). 
 
 https://github.com/silascutler/malpipe ----- MalPipe is a modular malware (and indicator) collection and processing framework. It is designed to pull malware, domains, URLs and IP addresses from multiple feeds, enrich the collected data and export the results.
+
+https://github.com/UltimateHackers/XSStrike ----- XSStrike is an advanced XSS detection suite. It has a powerful fuzzing engine and provides zero false positive result using fuzzy matching. XSStrike is the first XSS scanner to generate its own payloads. It is intelligent enough to detect and break out of various contexts.
+
+https://github.com/1N3/BlackWidow ----- BlackWidow is a python based web application spider to gather subdomains, URL's, dynamic parameters, email addresses and phone numbers from a target website. This project also includes Inject-X fuzzer to scan dynamic URL's for common OWASP vulnerabilities.
+
+https://github.com/UnaPibaGeek/ctfr ----- CTFR
+Do you miss AXFR technique? This tool allows to get the subdomains from a HTTPS website in a few seconds.
+How it works? CTFR does not use neither dictionary attack nor brute-force, it just abuses of Certificate Transparency logs.
+For more information about CT logs, check www.certificate-transparency.org and crt.sh 
