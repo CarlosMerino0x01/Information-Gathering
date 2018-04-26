@@ -65,3 +65,5 @@ fake banner and fake version, if admin do ssh -v or sshd -v banner will be faked
 https://github.com/Sab0tag3d/SIET ----- Smart Install Exploitation Tool
 Cisco Smart Install is a plug-and-play configuration and image-management feature that provides zero-touch deployment for new switches. You can ship a switch to a location, place it in the network and power it on with no configuration required on the device.
 
+https://www.darknet.org.uk/2017/09/wikto-scanner-download-web-server-security-tool/ ----- Wikto Web Server Security Tool
+
