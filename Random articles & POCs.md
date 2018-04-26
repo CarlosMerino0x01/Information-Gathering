@@ -15,3 +15,6 @@ https://medium.com/@0xdeadbeefJERKY/another-getting-started-in-security-post-46f
 https://tobloef.com/ctf/cybercamp-ctf-2017 ----- CyberCamp Individual CTF Quals 2017 Writeup
 
 https://danielmiessler.com/study/infosec_interview_questions/#gs.lPqL6uU ----- Infosec Interview Questions and good things to learn about
+
+https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html ----- 
+Fuzzing Adobe Reader for exploitable vulns (fun != profit)
