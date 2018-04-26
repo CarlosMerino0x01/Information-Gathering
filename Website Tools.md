@@ -12,3 +12,4 @@ https://www.ssllabs.com/index.html ----- SSL Labs is a collection of documents, 
 
 https://censys.io/ ----- Fin and analyze every reachable server and device on the internet.
 
+https://any.run/ ----- Interactive Malware Hunting Service
