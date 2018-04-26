@@ -8,3 +8,10 @@ https://isc.sans.edu/forums/diary/Statically+Unpacking+a+Brazilian+Banker+Malwar
 
 https://github.com/d4wner/Vulnerabilities-Report/blob/master/Muslim%20Matrimonial%20Script.md ----- SQL Injection/Stored-XSS/Reflect-XSS/Arbitrary-File-Uploading/CSRF
 
+https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f ----- One Company: 262 bugs, 100% acceptance. 2.57 priority, millions of user details saved.
+
+https://medium.com/@0xdeadbeefJERKY/another-getting-started-in-security-post-46f972ff3dab ----- Getting started in Security
+
+https://tobloef.com/ctf/cybercamp-ctf-2017 ----- CyberCamp Individual CTF Quals 2017 Writeup
+
+https://danielmiessler.com/study/infosec_interview_questions/#gs.lPqL6uU ----- Infosec Interview Questions and good things to learn about
