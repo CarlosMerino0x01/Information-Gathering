@@ -67,3 +67,5 @@ Cisco Smart Install is a plug-and-play configuration and image-management featur
 
 https://www.darknet.org.uk/2017/09/wikto-scanner-download-web-server-security-tool/ ----- Wikto Web Server Security Tool
 
+https://github.com/rootm0s/winpwnage ----- Elevate, UAC bypass, persistence, privilege escalation, dll hijack techniques
+
