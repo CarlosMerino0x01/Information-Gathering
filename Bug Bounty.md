@@ -28,3 +28,7 @@ https://github.com/UltimateHackers/Arjun ----- Arjun is a python script for find
 https://github.com/jobertabma/relative-url-extractor ----- A small tool that extracts relative URLs from a file.
 
 https://github.com/jobertabma/virtual-host-discovery ----- This is a basic HTTP scanner that'll enumerate virtual hosts on a given IP address. During recon, this might help expand the target by detecting old or deprecated code. It may also reveal hidden hosts that are statically mapped in the developer's /etc/hosts file.
+
+https://buckets.grayhatwarfare.com/ ----- Find open S3 buckets
+
+https://takeover.cyberint.com/ ----- Discover if vulnerable to subdomain takeover
