@@ -1,3 +1,5 @@
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming ----- List of Awesome Red Team / Red Teaming Resources
+
 https://decentsecurity.com/#/malware-web-and-phishing-investigation/ ----- Shows a bunch of useful website for evaluating and reporting.
 
 https://sites.google.com/site/infosecrocks/ ----- 
