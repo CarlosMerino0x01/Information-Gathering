@@ -32,3 +32,5 @@ https://github.com/jobertabma/virtual-host-discovery ----- This is a basic HTTP 
 https://buckets.grayhatwarfare.com/ ----- Find open S3 buckets
 
 https://takeover.cyberint.com/ ----- Discover if vulnerable to subdomain takeover
+
+https://github.com/adversis/PandorasBox ----- Find Enterprise Box accounts and enumerate for shared files and folders
