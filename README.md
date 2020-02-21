@@ -41,4 +41,4 @@ MS-ISAC
 There is a paid membership version and a free version sign up sign up for their alerts.
 https://www.cisecurity.org/
 
-Please remember this is just what I do what may work for me may not exactly work for you.  Test a couple different ways and find what's most comfortable for your.
+Please remember this is just what I do what may work for me may not exactly work for you.  Test a couple different ways and find what's most comfortable for you.
