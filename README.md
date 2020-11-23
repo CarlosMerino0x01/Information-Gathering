@@ -1,4 +1,4 @@
-# Information-Gathering
+# Information-Gathering Threat Intelligence
 
 Resources that are freely available for use by anyone to help dive into InfoSec.  Give credit where credit is due.
 
